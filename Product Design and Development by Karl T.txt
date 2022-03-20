@@ -1,0 +1,39 @@
+Product Design and Development by Karl T
+
+INTRODUCTION
+
+# what are the main units working on a product?
+
+# what are the five dimensions of product development?
+
+# what are 5 main areas marketing is involved in ?
+
+# What is meant by functional allegiances transcending project goals ?
+
+DEVELOPMENT PROCESS
+
+#What 5 areas is well definied process useful for?
+
+# Explain the points and need for ecomonic anaylsis/benchmarking?
+
+# What is a technology push product ?
+
+# what is a platform product ?
+
+# Process intensive products ?
+
+# Customised products?
+
+# Quick build products ?
+
+# Product service systems?
+
+# Complex systems ?
+
+# What is a lightweight project organisation ?
+
+# What is a heavyweight project organisation ?
+
+# What are the benefits/cons of project vs functional? 
+
+# Examples of products used in function orgs, lightweight, heavyweight and project?
